@@ -6,8 +6,7 @@ The project “IT Company Website” is a responsive website made using HTML, CS
 
 ## Website Link
 
-Go check this website!!
-https://sundar1718.github.io/company/
+Site is live @ https://syed1803.github.io/AzaydIT_SERVICE_Template/
 
 ##
 
